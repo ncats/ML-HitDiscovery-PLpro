@@ -24,10 +24,10 @@ This repository contains the following:
 **Screening Data**  
 - `Genesis_library_HTS_data/`: Contains high-throughput screening data for a small subset of the Genesis library.  
   - `primary_assay_data.csv`: Data from the initial primary assay screening.
-  - `confirmed_active_compounds.csv`: List of active compounds confirmed by follow-up assays.
+  - `confirmed_active_compounds_follow-up_assay.csv`: List of active compounds confirmed by follow-up assays.
 - `NPACT_library_HTS_data/`: Contains high-throughput screening data for a subset of the NPACT library.
-  - primary_assay_data.csv: Data from the initial primary assay screening.
-  - confirmed_active_compounds.csv: List of active compounds confirmed by follow-up assays.
+  - `primary_assay_data.csv`: Data from the initial primary assay screening.
+  - `confirmed_active_compounds_follow-up_assay.csv`: List of active compounds confirmed by follow-up assays.
 
 **Training and Test Sets**  
 - `training_set.sdf`: Structure data file (SDF) containing the training set compounds used for model building.
