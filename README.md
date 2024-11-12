@@ -22,10 +22,10 @@ This repository contains the following:
  - `virtual_screening_workflow.knwf`: Represents the virtual screening workflow against the Genesis molecular library, using the best, optimized ML model for hit discovery.
 
 **Screening Data**  
-- `Genesis_library/`: Contains high-throughput screening data for a small subset of the Genesis library.  
+- `Genesis_library_HTS_data/`: Contains high-throughput screening data for a small subset of the Genesis library.  
   - `primary_assay_data.csv`: Data from the initial primary assay screening.
   - `confirmed_active_compounds.csv`: List of active compounds confirmed by follow-up assays.
-- `NPACT_library/`: Contains high-throughput screening data for a subset of the NPACT library.
+- `NPACT_library_HTS_data/`: Contains high-throughput screening data for a subset of the NPACT library.
   - primary_assay_data.csv: Data from the initial primary assay screening.
   - confirmed_active_compounds.csv: List of active compounds confirmed by follow-up assays.
 
