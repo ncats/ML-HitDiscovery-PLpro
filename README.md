@@ -14,9 +14,9 @@ This repository contains the following:
 
 **KNIME Workflows**  
 - _Hyperparameter Optimization Workflows_:
-  - `random_forest_hyperopt.knwf`: A workflow for hyperparameter optimization of Random Forest model, using different combinations of Avalon, Morgan, and Atom-pair fingerprints along with RDKit descriptors.
-  - `gradient_boost_hyperopt.knwf`: A workflow for hyperparameter optimization of Gradient Boosting model, with the same variations of fingerprints and descriptors.
-  - `xgboost_hyperopt.knwf`: A workflow for hyperparameter optimization of an XGBoost model, using the fingerprint and descriptor combinations mentioned above.
+  - `random_forest_hyperoptimization.knwf`: A workflow for hyperparameter optimization of Random Forest model, using different combinations of Avalon, Morgan, and Atom-pair fingerprints along with RDKit descriptors.
+  - `gradient_boost_hyperoptimization.knwf`: A workflow for hyperparameter optimization of Gradient Boosting model, with the same variations of fingerprints and descriptors.
+  - `xgboost_hyperoptimization.knwf`: A workflow for hyperparameter optimization of an XGBoost model, using the fingerprint and descriptor combinations mentioned above.
     
 - _Virtual Screening Workflow_:    
  - `virtual_screening_workflow.knwf`: Represents the virtual screening workflow against the Genesis molecular library, using the best, optimized ML model for hit discovery.
