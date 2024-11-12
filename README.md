@@ -30,12 +30,11 @@ This repository contains the following:
   - confirmed_active_compounds.csv: List of active compounds confirmed by follow-up assays.
 
 **Training and Test Sets**  
-The following SDF files contain compounds used for model development and validation:
- - training_set.sdf: Structure data file (SDF) containing the training set compounds used for model building.
- - test_set.sdf: Structure data file (SDF) containing the test set compounds used for model validation.
+- `training_set.sdf`: Structure data file (SDF) containing the training set compounds used for model building.
+- `test_set.sdf`: Structure data file (SDF) containing the test set compounds used for model validation.
 
 **Selected Hits From Virtual Screening**
-- selected_hits.csv: A CSV file listing the top hit compounds identified from the virtual screening workflow.
+- `selected_hits.csv`: A CSV file listing the top hit compounds identified from the virtual screening workflow.
 
 **Analog Compounds Similarity**  
-- analog_compounds.csv: A CSV file listing analog compounds screened in this study, along with their Tanimoto similarity values.
+- `analog_compounds.csv`: A CSV file listing analog compounds screened in this study, along with their Tanimoto similarity values.
