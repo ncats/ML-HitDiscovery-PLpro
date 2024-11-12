@@ -34,7 +34,7 @@ This repository contains the following:
 - `test_set.sdf`: Structure data file (SDF) containing the test set compounds used for model validation.
 
 **Selected Hits From Virtual Screening**
-- `selected_screening_hits.csv`: A CSV file listing the top hit compounds identified from the virtual screening workflow.
+- `selected_screening_hits.xlsx`: A file listing the top hit compounds identified from the virtual screening workflow.
 
 **Analog Compounds Similarity**  
-- `analog_compounds.csv`: A CSV file listing analog compounds screened in this study, along with their Tanimoto similarity values.
+- `analog_compounds.xlsx`: A file listing analog compounds screened in this study, along with their Tanimoto similarity values.
