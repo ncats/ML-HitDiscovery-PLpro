@@ -1,3 +1,5 @@
+This repository has been archived and is no longer maintained.The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should not be used in production systems.
+
 # Applications of Machine Learning Approaches for Discovery of SARS-CoV-2 PLpro Inhibitors
 This repository is under the NCATS organization. It documents computational workflows, datasets, and results from a study focused on discovering potential inhibitors for the SARS-CoV-2 PLpro protein. The study uses machine learning (ML) models and high-throughput screening data to identify promising hit compounds.
 
